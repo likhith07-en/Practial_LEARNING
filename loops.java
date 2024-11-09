@@ -16,5 +16,6 @@ class loops
                   }
                  System.out.println("  ");
                  }
+                 sc.close();
      } 
  }
